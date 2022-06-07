@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "838796226648",
+    "project_id": "pushnotification-60788",
+    "storage_bucket": "pushnotification-60788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838796226648:android:99db6def0b212abf615a2d",
+        "android_client_info": {
+          "package_name": "piac.Test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838796226648-vjitnia71178solnt8st6f3jd5bgtee0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKiSK-TdqcFhrtu_BYP3a7IlQZpKMn6H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838796226648-vjitnia71178solnt8st6f3jd5bgtee0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838796226648:android:ed6f9b2c971a1958615a2d",
+        "android_client_info": {
+          "package_name": "piac.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838796226648-vjitnia71178solnt8st6f3jd5bgtee0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKiSK-TdqcFhrtu_BYP3a7IlQZpKMn6H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838796226648-vjitnia71178solnt8st6f3jd5bgtee0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
